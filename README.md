@@ -36,7 +36,7 @@
 |HMI|
   |:---:|
   |![Image](https://github.com/user-attachments/assets/5e2e0e40-8e51-41b5-a9df-172bcfbe4a4e)|
-  |플로우차트|
+  |**플로우차트**|
   |![Image](https://github.com/user-attachments/assets/1d9f6066-81c6-4595-b66c-aba4ece74b7a)|
   |![Image](https://github.com/user-attachments/assets/f40dee4f-1671-470a-ad12-47d1f819ce42)|
 
@@ -44,31 +44,31 @@
 |HMI|
   |:---:|
   |![Image](https://github.com/user-attachments/assets/5394c489-4029-4005-aace-dd2ba9ce28f1)|
-  |플로우차트|
+  |**플로우차트**|
   |![Image](https://github.com/user-attachments/assets/ba32dcb2-088e-45db-b13b-11c1af57739e)|
 ### 3. 조명 제어
 |HMI|
   |:---:|
   |![Image](https://github.com/user-attachments/assets/7c3829e5-06f9-4665-ba49-d9610b4bb2d4)|
-  |플로우차트|
+  |**플로우차트**|
   |![Image](https://github.com/user-attachments/assets/d346e4b7-060f-4bee-a7de-a351cfa9822d)|
 ### 4. 가스 밸브 제어
 |HMI|
   |:---:|
   |![Image](https://github.com/user-attachments/assets/90f4ed60-ad4e-42e7-b922-c4104ad6c279)|
-  |플로우차트|
+  |**플로우차트**|
   |![Image](https://github.com/user-attachments/assets/d52d9035-af1f-4181-8702-728a00bb08f6)|
 ### 5. 냉/난방기 제어
 |HMI|
   |:---:|
   |![Image](https://github.com/user-attachments/assets/3a3c2445-b948-4206-b3e0-32a0bd0920e5)|
-  플로우차트|
+  |**플로우차트**|
   |![Image](https://github.com/user-attachments/assets/a75bec80-87e2-4128-8629-5431e322b4cc)|
 ### 6. 보일러 제어
 |HMI|
   |:---:|
   |![Image](https://github.com/user-attachments/assets/baaa9c08-0a88-485b-b37c-d80c052eb95d)|
-  |플로우차트|
+  |**플로우차트**|
   |![Image](https://github.com/user-attachments/assets/cafb47c1-6ddd-4896-84c8-033890bf7667)|
 
 
