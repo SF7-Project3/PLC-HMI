@@ -1,3 +1,2 @@
-일상의 행복한 변화 : Smart Home
-<img src="https://capsule-render.vercel.app/api?type=square&color=red&height=6&section=header&text=autocare&fontSize=텍스트크기" />
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradients&customColoirlist=10&height=200&section=header&text=일상의 행복한 변화 : Smart Home&fontSize=50)
