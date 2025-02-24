@@ -19,7 +19,7 @@
 ### 1. 월패드 호출 밑 공동현관 자동호출
 |HMI|플로우차트|
   |:---:|:---:|
-  |![Image](https://github.com/user-attachments/assets/01dc8211-6990-4c3b-85e8-78cc42d39ccc)|플로우차트|
+  |![Image](https://github.com/user-attachments/assets/8e9473c2-f3f2-4c99-b521-9ad16377472c)|플로우차트|
 ### 2. 커튼 제어
 |HMI|플로우차트|
   |:---:|:---:|
