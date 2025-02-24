@@ -61,5 +61,31 @@
 ## 기대효과 및 활용 방안
 
 ## 참고자료
+* SKT(NUGU) : https://www.sktsmarthome.com/ 
 
+* LG(ThinQ) : https://www.lge.co.kr/lg-thinq/app?utm_medium=cpc&utm_source=google&utm_campaign=241008_smart_thinq_sa_bc&utm_term=lg%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%99%88&utm_content=%ED%99%95%EC%9E%A5&gad_source=1&gclid=CjwKCAiAzba9BhBhEiwA7glbasR6tlKrdB53NbHUU0r64sRzP0Rjj1wNt5HTyehMRRY4XJz1NbROzRoCHAAQAvD_BwE
+
+* 삼성(SmartThings) : https://www.samsung.com/sec/smartthings/#samsung-devices
+
+* 스마트 가전 제품 추천 리스트 : https://everyday-holiday3.tistory.com/entry/1%EC%9D%B8-%EA%B0%80%EA%B5%AC-%EC%83%9D%ED%99%9C-%EC%A0%95%EB%B3%B4-%ED%95%84%EC%88%98-%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88-%EC%B6%94%EC%B2%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8
+
+* 스마트 팩토리 참고 : https://www.youtube.com/watch?v=mj8UdZYYthc
+
+* 애플 홈킷 예시 : https://brunch.co.kr/@forchoon/418
+
+* 엘리베이터 자동 호출 :
+  1. 유엘루트 https://blog.naver.com/lifesmart-kr/223664670289
+  2. 코맥스 https://m.blog.naver.com/commax0401/221376348512
+
+* 에어컨 원격제어 : https://smartstore.naver.com/airdeep/products/8638447772?n_media=27758&n_query=에어컨자동제어&n_rank=2&n_ad_group=grp-a001-01-000000035337903&n_ad=nad-a001-01-000000303664220&n_keyword_id=nkw-a001-01-000005459099493&n_keyword=에어컨자동제어&n_campaign_type=1&n_ad_group_type=1&n_match=1&NaPm=ct%3Dm748z1i0|ci%3D0zG0001BKoTBTCn3yLkh|tr%3Dsa|hk%3Deacb63a56f67a44dbbe75123516556641581a60f|nacn%3DdgegDABgginlB
+
+* 가전제품 제어 방법 LG ThinQ : https://www.lge.co.kr/support/software-SW20231218351001 
+
+* PLC이용 엘리베이터 제어 예시 : https://blog.naver.com/kj98te07/222806108610
+
+* XGK사용방법 : https://sol.ls-electric.com/uploads/document/16572866006190/XGK%20%EC%B4%88%EA%B8%89_V21_.pdf
+
+* 스마트팜 실습 예제(LS ELECTRIC) : https://www.youtube.com/watch?v=F3aCeGqTpV0
+
+* 하수처리시설_ 모터교번운전 실습예제(LS ELECTRIC) : https://www.youtube.com/watch?v=F-b6qiiZ3BI
 
