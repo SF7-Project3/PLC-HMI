@@ -11,6 +11,6 @@
   |황세진|팀원||
 
 ## 기능 명세서
-![Image](https://github.com/user-attachments/assets/35afd086-fd15-4a10-b8b0-de3bc16f2371)
+![Image](https://github.com/user-attachments/assets/056881e1-414b-4508-b271-02a892e8e601)
 ## 플로우차트
 
