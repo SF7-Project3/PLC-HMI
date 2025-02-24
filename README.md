@@ -23,7 +23,7 @@
 ### 2. 커튼 제어
 |HMI|플로우차트|
   |:---:|:---:|
-  ||플로우차트|
+  |![Image](https://github.com/user-attachments/assets/5394c489-4029-4005-aace-dd2ba9ce28f1)|플로우차트|
 ### 3. 조명 제어
 |HMI|플로우차트|
   |:---:|:---:|
