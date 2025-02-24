@@ -19,7 +19,7 @@
 ### 1. 월패드 호출 밑 공동현관 자동호출
 |HMI|플로우차트|
   |:---:|:---:|
-  |![Image](https://github.com/user-attachments/assets/8e9473c2-f3f2-4c99-b521-9ad16377472c)|플로우차트|
+  |![Image](https://github.com/user-attachments/assets/5e2e0e40-8e51-41b5-a9df-172bcfbe4a4e)|플로우차트|
 ### 2. 커튼 제어
 |HMI|플로우차트|
   |:---:|:---:|
@@ -31,7 +31,7 @@
 ### 4. 가스 밸브 제어
 |HMI|플로우차트|
   |:---:|:---:|
-  ||플로우차트|
+  |![Image](https://github.com/user-attachments/assets/90f4ed60-ad4e-42e7-b922-c4104ad6c279)|플로우차트|
 ### 5. 냉/난방기 제어
 |HMI|플로우차트|
   |:---:|:---:|
@@ -39,7 +39,7 @@
 ### 6. 보일러 제어
 |HMI|플로우차트|
   |:---:|:---:|
-  ||플로우차트|
+  |![Image](https://github.com/user-attachments/assets/baaa9c08-0a88-485b-b37c-d80c052eb95d)|플로우차트|
 
 
 ## 기대효과 및 활용 방안
