@@ -24,7 +24,7 @@
 ### 6. 보일러 제어
 |HMI|플로우차트|
   |:---:|:---:|
-  |gif|플로우차트|
+  |![Image](https://github.com/user-attachments/assets/7a74cc71-2d87-4253-a041-383cae5872bd)|플로우차트|
 
 ## 기대효과 및 활용 방안
 
