@@ -72,8 +72,7 @@
   |![Image](https://github.com/user-attachments/assets/cafb47c1-6ddd-4896-84c8-033890bf7667)|
 
 
-## 기대효과 및 활용 방안
-
+## 
 ## 참고자료
 * SKT(NUGU) : https://www.sktsmarthome.com/ 
 
